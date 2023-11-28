@@ -25,7 +25,7 @@ MaxMatrix M (DIN ,CS, CLK, MAXINUSE);
 
 void setup () {
 
-  M.init ();                                                                                                // Starting The Dot Matrix  .
+  M.init ();                                                                                                // Starting The Dot Matrix .
   M.setIntensity (8);                                                                                      // Determining LEDs Light Intensity (0 To 15) . :
   
 }
