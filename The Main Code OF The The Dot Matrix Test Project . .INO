@@ -2,7 +2,7 @@
 
 // In This Program, We Want To Test The Dot Matrix .
 
-// The Main Code OF The The Dot Matrix Test Project . .C
+// The Main Code OF The The Dot Matrix Test Project . .INO .
 
 
 
